@@ -56,3 +56,10 @@ Element is present at index 3
 
 ```
 
+## Complexity
+```
+
+Time Complexity: O(log N)
+Auxiliary Space: O(1)
+
+```

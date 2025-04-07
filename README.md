@@ -63,3 +63,9 @@ Time Complexity: O(log N)
 Auxiliary Space: O(1)
 
 ```
+
+## Approach 2
+# Recursive Binary Search Algorithm:
+<p>Create a recursive function and compare the mid of the search space with the key. And based on the result either return the index where the key is found or call the recursive function for the next search space.
+</p>
+
